@@ -4,4 +4,3 @@
 - Another feature
 - bugFix
 - new BuGFix
-- continue bugfix branch
