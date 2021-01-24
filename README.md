@@ -2,3 +2,4 @@
 
 - Adding a new feature
 - Another feature
+- bugFix
